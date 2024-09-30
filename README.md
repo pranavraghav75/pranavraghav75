@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any insightful, AI/Full Stack Projects
 - 📫 How to reach me: pranavraghavan5@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavraghav75)](https://github.com/pranavraghav75/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavraghav75&bg_color=00000000)](https://github.com/pranavraghav75/github-readme-stats)
 
 <!---
 pranavraghav75/pranavraghav75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
