@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @pranavraghav75
 - 👀 I’m interested in Software Engineering and Machine Learning
-- 🌱 I’m currently learning how to build LLM-as-a-Judge evaluation frameworks
+- 🌱 I’m currently learning how to build trading infra
 - 📫 How to reach me: pranavraghavan5@gmail.com
