@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @pranavraghav75
 - 👀 I’m interested in Software Engineering and Machine Learning
-- 🌱 I’m currently learning how to build trading infra
+- 🌱 I’m currently learning how to build nueromorphic architecture
 - 📫 How to reach me: pranavraghavan5@gmail.com
